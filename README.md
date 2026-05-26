@@ -1,5 +1,5 @@
 # Pizza-Dashboard
-Pizza Sales Analysis Dashboard | Power BI Project
+Title - Pizza Sales Analysis Dashboard | Power BI Project
 Excited to share my latest data analytics
 project where I built an interactive Pizza Sales
 Analysis Dashboard using Power BI to extract
@@ -94,7 +94,7 @@ weekdays and weekends
 - Data Visualization
 - Business Intelligence
 
-
+https://github.com/Anjali2000-18/Pizza-Dashboard/blob/main/PIZZA%20DASHBOARD.pdf
 📊 This dashboard helps stakeholders understand customer preferences, optimize product offerings, and improve overall sales strategy.
 🛠 Tools Used: Power BI | Data Cleaning | Data Modeling | Data Visualization
 #PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #AnalyticsProject
